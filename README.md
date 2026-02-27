@@ -16,7 +16,8 @@ Objectives
 5. Apply string operations like split() and join()
 
 Topics Covered
-List
+
+A) List
 
 1. Creating lists
 
@@ -26,7 +27,7 @@ List
 
 4. Inserting and updating elements
 
-Tuple
+B) Tuple
 
 1. Tuple creation and access
 
@@ -34,7 +35,7 @@ Tuple
 
 3. Converting between tuple and list
 
-Set
+C) Set
 
 1. Creating sets
 
@@ -44,7 +45,7 @@ Set
 
 4. Understanding unordered nature
 
- Dictionary
+D) Dictionary
 
 1. Creating key–value pairs
 
@@ -56,23 +57,23 @@ Set
 
 5. Character frequency counting using dictionary
 
-String Operations
+E) String Operations
 
-Splitting string into list using split()
+1. Splitting string into list using split()
 
-Joining list into string using join()
+2. Joining list into string using join()
 
-Converting characters to lowercase/uppercase
+3. Converting characters to lowercase/uppercase
 
 Key Learning Outcomes
 
-Strong understanding of Python data structures
+1.Strong understanding of Python data structures
 
-Ability to manipulate and process structured data
+2.Ability to manipulate and process structured data
 
-Improved problem-solving using dictionaries and loops
+3.Improved problem-solving using dictionaries and loops
 
-Foundation for Data Science, Machine Learning, and Software Development
+4.Foundation for Data Science, Machine Learning, and Software Development
 
 Technologies Used
 
