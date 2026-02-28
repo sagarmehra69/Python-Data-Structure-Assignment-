@@ -1,85 +1,84 @@
-Python Data Structures Assignment
-Overview
+# Python Data Structures for Data Analytics – Assignment
 
-This repository contains my Python assignment focused on understanding and applying core Python data structures: List, Tuple, Set, and Dictionary. These structures are fundamental for efficient data storage, manipulation, and problem-solving in Python programming.
+## Overview
+This repository contains my Python Data Structures assignment completed as part of my Data Analytics training. The focus of this assignment is to understand and implement Python's core data structures, which are essential for storing, organizing, and manipulating data efficiently.
 
-Objectives
+Data structures are the backbone of data analytics, as they allow analysts to manage and process data effectively before performing analysis or visualization.
 
-1. Learn the properties and behavior of different data structures
+---
 
-2. Perform operations like indexing, slicing, iteration, and updating
+## Topics Covered
 
-3. Understand mutability and immutability concepts
+The assignment includes practical implementation of the following Python data structures:
 
-4. Use dictionaries for key–value data handling and frequency counting
+- Lists
+  - Creating lists
+  - Accessing and modifying elements
+  - List operations and methods
 
-5. Apply string operations like split() and join()
+- Tuples
+  - Tuple creation and indexing
+  - Differences between lists and tuples
+  - Use cases of immutable data
 
-Topics Covered
+- Sets
+  - Creating sets
+  - Set operations (union, intersection, difference)
+  - Removing duplicates
 
-A) List
+- Dictionaries
+  - Creating dictionaries
+  - Accessing keys and values
+  - Updating and modifying data
+  - Dictionary methods
 
-1. Creating lists
+---
 
-2. Indexing and slicing
+## Learning Objectives
 
-3. Iterating using loops
+Through this assignment, I learned how to:
 
-4. Inserting and updating elements
+- Use Python data structures to store and manage data
+- Apply different data structures based on use cases
+- Write efficient and structured Python code
+- Understand data organization fundamentals for analytics
 
-B) Tuple
+---
 
-1. Tuple creation and access
+## File Included
 
-2. Understanding immutability
+- `Python Data Structure Assignment.ipynb` – Jupyter Notebook containing all exercises and solutions
 
-3. Converting between tuple and list
+---
 
-C) Set
+## Tools Used
 
-1. Creating sets
+- Python 3
+- Jupyter Notebook
+- GitHub
 
-2. Removing duplicate values
+---
 
-3. Iterating through sets
+## Purpose
 
-4. Understanding unordered nature
+This assignment strengthens my foundation in Python, which is essential for:
 
-D) Dictionary
+- Data Analysis
+- Data Science
+- Machine Learning
+- Data Engineering
 
-1. Creating key–value pairs
+---
 
-2. Accessing values using keys
+## Author
 
-3. Iterating using items()
+Sagar  
+Aspiring Data Analyst | Python Learner
 
-4. Merging dictionaries
+---
 
-5. Character frequency counting using dictionary
+## Future Scope
 
-E) String Operations
-
-1. Splitting string into list using split()
-
-2. Joining list into string using join()
-
-3. Converting characters to lowercase/uppercase
-
-Key Learning Outcomes
-
-1.Strong understanding of Python data structures
-
-2.Ability to manipulate and process structured data
-
-3.Improved problem-solving using dictionaries and loops
-
-4.Foundation for Data Science, Machine Learning, and Software Development
-
-Technologies Used
-
-Python 3
-
-Jupyter Notebook / VS Code
-
-Author
-Sagar Mehra
+- Apply data structures to real datasets
+- Use Pandas for advanced data manipulation
+- Build real-world data analytics projects
